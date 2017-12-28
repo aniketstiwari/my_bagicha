@@ -84,4 +84,4 @@ production:
   <<: *default
   database: my_bagicha_production
   username: my_bagicha
-  password: <%= ENV['MY_BAGICHA_DATABASE_PASSWORD'] %>
+  password: my_bagicha
