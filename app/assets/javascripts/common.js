@@ -4,7 +4,7 @@
 	$('._toggleMenu .nav').html($menu.html());
 })();
 
-var ww = document.body.clientWidth;
+var ww = $(window).width();//document.body.clientWidth;
 
 $(document).ready(function() {		
 	$("._toggleMenu .nav li a").each(function() {
