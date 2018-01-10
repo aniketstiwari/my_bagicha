@@ -11,6 +11,10 @@
 // about supported directives.
 //
 //= require jquery
+//= require jquery.scrolltotop
+//= require jquery.flexslider-min
 //= require jquery_ujs
-//= superfish
+//= require bootstrap.min
+//= require common
+//= require superfish
 
